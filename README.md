@@ -32,3 +32,4 @@ Add necessary OpenShift extension...
 ```shell script
 ./mvnw quarkus:add-extension -Dextensions="container-image-s2i"
 ```
+
